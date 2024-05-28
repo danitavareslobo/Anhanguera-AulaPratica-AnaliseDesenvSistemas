@@ -1,0 +1,10 @@
+C:\Users\DaniTavaresLobo\dev\Anhanguera\AnaliseDesenvSistemas\ResoluçãoProblemas\ResoluçãoProblemas\obj\Debug\ResoluçãoProblemas.csproj.AssemblyReference.cache
+C:\Users\DaniTavaresLobo\dev\Anhanguera\AnaliseDesenvSistemas\ResoluçãoProblemas\ResoluçãoProblemas\obj\Debug\ResoluçãoProblemas.Properties.Resources.resources
+C:\Users\DaniTavaresLobo\dev\Anhanguera\AnaliseDesenvSistemas\ResoluçãoProblemas\ResoluçãoProblemas\obj\Debug\ResoluçãoProblemas.csproj.GenerateResource.cache
+C:\Users\DaniTavaresLobo\dev\Anhanguera\AnaliseDesenvSistemas\ResoluçãoProblemas\ResoluçãoProblemas\obj\Debug\ResoluçãoProblemas.csproj.CoreCompileInputs.cache
+C:\Users\DaniTavaresLobo\dev\Anhanguera\AnaliseDesenvSistemas\ResoluçãoProblemas\ResoluçãoProblemas\bin\Debug\ResoluçãoProblemas.exe.config
+C:\Users\DaniTavaresLobo\dev\Anhanguera\AnaliseDesenvSistemas\ResoluçãoProblemas\ResoluçãoProblemas\bin\Debug\ResoluçãoProblemas.exe
+C:\Users\DaniTavaresLobo\dev\Anhanguera\AnaliseDesenvSistemas\ResoluçãoProblemas\ResoluçãoProblemas\bin\Debug\ResoluçãoProblemas.pdb
+C:\Users\DaniTavaresLobo\dev\Anhanguera\AnaliseDesenvSistemas\ResoluçãoProblemas\ResoluçãoProblemas\obj\Debug\ResoluçãoProblemas.Form1.resources
+C:\Users\DaniTavaresLobo\dev\Anhanguera\AnaliseDesenvSistemas\ResoluçãoProblemas\ResoluçãoProblemas\obj\Debug\ResoluçãoProblemas.exe
+C:\Users\DaniTavaresLobo\dev\Anhanguera\AnaliseDesenvSistemas\ResoluçãoProblemas\ResoluçãoProblemas\obj\Debug\ResoluçãoProblemas.pdb
